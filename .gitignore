@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+.env
+
+# Logs
+logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Frontend build
+frontend/build
+
+# Backend
+backend/node_modules
+
+frontend/node_modules
